@@ -1,0 +1,12 @@
+pip
+transformers
+accelerate
+pandas
+numpy
+torch
+evaluate
+matplotlib
+datasets
+bertviz
+umap-learn
+hf_ext
